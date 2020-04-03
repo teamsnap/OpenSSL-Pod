@@ -1,1 +1,2 @@
-186c6bfe6ecfba7a5b48c47f8a1673d0f3b0e5ba2e25602dd23b629975da3f35  openssl-1.1.1f.tar.gz
+a4579cbdbd6cab6ecb6680e939786c3de489ffa9  lib/libcrypto.a
+3e1aafd0ea10c8f37d9142ae1c9f52af6e84ee0a  lib/libssl.a
